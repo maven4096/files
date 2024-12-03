@@ -1,0 +1,9 @@
+{
+    "credentials": {
+        "Us0": ["maven", "2564"],
+        "Us1": ["ryan", "2564"]
+    },
+    "settings": {
+        "user_db": "users"
+    }
+}
