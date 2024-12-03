@@ -1,9 +1,0 @@
-{
-    "db_type": "sqlite3",
-    "db_cred": {
-        "host": "localhost",
-        "username": "root",
-        "password": "root",
-        "database": "test"
-    }
-}
