@@ -1,7 +1,7 @@
 {
     "credentials": {
-        "Us0": ["maven", "2564"],
-        "Us1": ["ryan", "2564"]
+        "Us0": ["admin", "admin"],
+        "Us1": ["user", "user"]
     },
     "settings": {
         "user_db": "users"
