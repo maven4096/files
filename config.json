@@ -1,9 +1,18 @@
 {
-    "credentials": {
+    "program_cred": {
         "Us0": ["admin", "admin"],
         "Us1": ["user", "user"]
     },
     "settings": {
         "user_db": "users"
+    },
+    "db_type": "sqlite3",
+    "db_cred": {
+        "host": "localhost",
+        "username": "root",
+        "password": "root"
+    },
+    "db_templates": {
+            "users": "CREATE TABLE IF NOT EXISTS users (id INTEGER PRIMARY KEY AUTOINCREMENT, username TEXT NOT NULL, password TEXT NOT NULL);"
     }
 }
